@@ -1,0 +1,43 @@
+# Cart Abandonment Recovery System Requirements
+
+# Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Database
+SQLAlchemy==2.0.21
+Flask-SQLAlchemy==3.0.5
+
+# WhatsApp Integration
+requests==2.31.0
+whatsapp-business-api==1.0.0
+
+# Background Tasks
+Celery==5.3.1
+Redis==4.6.0
+
+# Data Processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Email Templates
+Jinja2==3.1.2
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# HTTP Requests
+urllib3==2.0.4
+
+# Date/Time
+python-dateutil==2.8.2
+
+# JSON Handling
+jsonschema==4.19.0
+
+# Logging
+loguru==0.7.0
+
+# Testing (Optional)
+pytest==7.4.0
+pytest-flask==1.2.0
