@@ -1,10 +1,5 @@
 # 🛒 Cart Abandonment Recovery System
 
-**🔗 Dashboard:**  
-[Live Dashboard ](https://abish-gupta.github.io/Abandoned-Cart-Automation-CRM-Workflow/)
-
----
-
 ### Problem
 E-commerce businesses lose significant revenue because customers often leave without completing orders, making it hard for teams to track and recover these abandoned carts. Manual recovery efforts are slow, expensive, and rarely succeed.
 
